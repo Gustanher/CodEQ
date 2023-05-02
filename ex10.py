@@ -32,3 +32,4 @@ print("Gremio: ", greWins)
 print("Empates: ", empate)
 
 print("O time que venceu o maior número de grenais foi: ", vencedor)
+
